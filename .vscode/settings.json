@@ -1,0 +1,13 @@
+{
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.formatOnSave": true,
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll": "explicit",
+  //   "source.organizeImports": "always"
+  // },
+  // "editor.tabSize": 2
+  // "editor.insertSpaces": true,
+  // "editor.detectIndentation": false,
+  // "editor.formatOnPaste": true,
+  // "editor.formatOnType": true
+}
